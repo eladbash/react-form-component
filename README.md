@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save react-form-component
+npm install --save react-easy-form-component
 ```
 
 ## Usage
