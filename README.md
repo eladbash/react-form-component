@@ -15,7 +15,7 @@ npm install --save react-easy-form-component
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-form-component'
+import MyComponent from 'react-easy-form-component'
 
 class Example extends Component {
   render () {
@@ -28,4 +28,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [eladbash](https://github.com/eladbash)
+MIT © [eladbash](http://eladbash.com)
